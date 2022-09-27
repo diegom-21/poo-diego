@@ -9,7 +9,7 @@ viernes
 sabado 
 domingo
 
-meses del año
+MESES DEL AÑO
 enero 
 febrero
 marzo
